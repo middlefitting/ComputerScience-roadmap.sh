@@ -1,4 +1,4 @@
-package com.example.practice.algorithms.sort.bubblesort;
+package com.example.practice.commonalgorithms.sorting.bubblesort;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
