@@ -14,3 +14,4 @@
 > Sorting
 - [BubbleSort](src/main/java/com/example/practice/commonalgorithms/sorting/bubblesort/BubbleSort.java)
 - [SelectionSort](src/main/java/com/example/practice/commonalgorithms/sorting/selectionsort/SelectionSort.java)
+- [InsertionSort](src/main/java/com/example/practice/commonalgorithms/sorting/insertionsort/InsertionSort.java)
