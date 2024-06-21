@@ -4,9 +4,10 @@
 
 ## 📖 Index
 ### Pick a Language
-- Java
+- [Java](https://github.com/middlefitting/Java-roadmap.sh)
 
 ### Data Structures
+- [Array](src/main/java/com/example/practice/datastructures/array/README.md)
 
 ### Asymptotic Notation
 
