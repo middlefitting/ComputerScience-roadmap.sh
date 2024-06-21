@@ -11,4 +11,8 @@ public class HelloArray {
 		// 동적 배열
 		ArrayList<Integer> dynamicArray = new ArrayList<>(10); // 초기 용량 할당
 	}
+
+	public static void changeArrayValue(int idx, int value, int[] arr) {
+		arr[idx] = value;
+	}
 }
