@@ -8,6 +8,8 @@
 
 ### Data Structures
 - [Array](src/main/java/com/example/practice/datastructures/array/README.md)
+- [LinkedList](src/main/java/com/example/practice/datastructures/linkedlist/README.md)
+
 
 ### Asymptotic Notation
 
