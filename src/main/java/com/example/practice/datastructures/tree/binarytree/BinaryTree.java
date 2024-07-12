@@ -3,6 +3,13 @@ package com.example.practice.datastructures.tree.binarytree;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * BinaryTree.
+ *
+ * <p> 기본 구현 및 Traversal Order </p>
+ *
+ * @param <T>
+ */
 public class BinaryTree<T extends Number> {
 	private static final String sep = " ";
 
