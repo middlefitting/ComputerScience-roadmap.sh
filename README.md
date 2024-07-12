@@ -13,6 +13,7 @@
 - [Queue](src/main/java/com/example/practice/datastructures/queue/README.md)
 - [HashTable](src/main/java/com/example/practice/datastructures/hashtable/README.md)
 - [Heap](src/main/java/com/example/practice/datastructures/heap/README.md)
+- [Tree](src/main/java/com/example/practice/datastructures/tree/README.md)
 
 
 ### Asymptotic Notation
