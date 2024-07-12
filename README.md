@@ -14,7 +14,7 @@
 - [HashTable](src/main/java/com/example/practice/datastructures/hashtable/README.md)
 - [Heap](src/main/java/com/example/practice/datastructures/heap/README.md)
 - [Tree](src/main/java/com/example/practice/datastructures/tree/README.md)
-    - [Binary Tree](src/main/java/com/example/practice/datastructures/tree/binarytree/README.md)
+    - [BinaryTree](src/main/java/com/example/practice/datastructures/tree/binarytree/README.md)
 
 
 ### Asymptotic Notation
