@@ -29,4 +29,3 @@ int hash(int key, int prime, int LoadFactor) {
 }
 
 간단한 예시로는 이렇게 해시함수가 구현되어 있을때 LoadFactor와 내부적으로 사용하는 prime이 서로수인 소수여야 모든 키에 대해서 최소한의 해시 충돌이 발생하는 것입니다.
-
