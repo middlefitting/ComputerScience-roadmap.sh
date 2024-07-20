@@ -1,8 +1,6 @@
 package com.example.practice.datastructures.tree.fullbinarytree;
 
 public class FullBinaryTree<T extends Number & Comparable<T>> {
-
-	public final static String NOT_EXIST = "Data not exist!";
 	private Node<T> root;
 
 	public FullBinaryTree<T> insert(T data) {
