@@ -16,6 +16,7 @@
 - [Tree](src/main/java/com/example/practice/datastructures/tree/README.md)
     - [BinaryTree](src/main/java/com/example/practice/datastructures/tree/binarytree/README.md)
     - [BinarySearchTree](src/main/java/com/example/practice/datastructures/tree/binarysearchtree/README.md)
+    - [FullBinaryTree](src/main/java/com/example/practice/datastructures/tree/fullbinarytree/README.md)
 
 
 ### Asymptotic Notation
