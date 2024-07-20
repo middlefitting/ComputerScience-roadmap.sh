@@ -17,6 +17,7 @@ import lombok.Getter;
 @Getter
 public class BinarySearchTree<T extends Number & Comparable<T>> {
 
+	public final static String NOT_EXIST = "Data not exist!";
 	private Node<T> root;
 
 	/**
@@ -41,6 +42,44 @@ public class BinarySearchTree<T extends Number & Comparable<T>> {
 			node.left = insertData(node.left, data);
 		} else {
 			node.right = insertData(node.right, data);
+		}
+		return node;
+	}
+
+	public BinarySearchTree<T> delete(T data) {
+		root = deleteData(root, data);
+		return this;
+	}
+
+	private Node<T> deleteData(Node<T> node, T data) {
+		if (node == null) {
+			throw new RuntimeException(NOT_EXIST);
+		} else if (data.compareTo(node.data) < 0) {
+			node.left = deleteData(node.left, data);
+		} else if (data.compareTo(node.data) > 0) {
+			node.right = deleteData(node.right, data);
+		} else {
+			// leaf node
+			if (node.left == null && node.right == null) {
+				return null;
+			} else if (node.left == null) { // 1 child
+				node = node.right;
+			} else if (node.right == null) { // 1 child
+				node = node.left;
+			} else { // 2 child, recursion delete
+				Node<T> temp = findMin(node.right);
+				node.data = temp.data;
+				node.right = deleteData(node.right, temp.data);
+			}
+		}
+		return node;
+	}
+
+	public Node<T> findMin(Node<T> node) {
+		if (node == null) {
+			throw new RuntimeException("bad request");
+		} else if (node.left != null) {
+			return findMin(node.left);
 		}
 		return node;
 	}
