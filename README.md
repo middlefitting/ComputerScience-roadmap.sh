@@ -20,6 +20,7 @@
     - [CompleteBinaryTree](src/main/java/com/example/practice/datastructures/tree/completebinarytree/README.md)
     - [BalancedTree](src/main/java/com/example/practice/datastructures/tree/balancedtree/README.md)
     - [UnBalancedTree](src/main/java/com/example/practice/datastructures/tree/unbalancedtree/README.md)
+- [Graph](src/main/java/com/example/practice/datastructures/graph/README.md)
 
 
 ### Asymptotic Notation
