@@ -13,3 +13,15 @@
 - Big O: Worst Case
 - Big Omega: Best Case
 - Big Theta: Average Case
+
+## 시간의 종류
+시간의 종류로는 다음과 같은 내용들이 대표로 존재합니다.
+
+여기서는 빅오를 기준으로 표현하겠습니다
+
+- Constant: 상수 시간 O(1)
+- Logarithmic: 로그 시간 O(logn)
+- Linear: 선형 시간 O(n)
+- Polynomial: 다항 시간 O(n**k)
+- Exponential: 지수 시간 O(2**n)
+- Factorial: 팩토리얼 O(n!)
