@@ -30,6 +30,9 @@
 ### Asymptotic Notation
 
 ### Common Algorithms
+> Graphs
+- [Dijkstra’s Algorithm](src/main/java/com/example/practice/commonalgorithms/graphs/dijkstrasalgorithm/README.md)
+
 > Sorting
 - [BubbleSort](src/main/java/com/example/practice/commonalgorithms/sorting/bubblesort/BubbleSort.java)
 - [SelectionSort](src/main/java/com/example/practice/commonalgorithms/sorting/selectionsort/SelectionSort.java)
