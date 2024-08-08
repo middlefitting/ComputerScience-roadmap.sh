@@ -24,6 +24,8 @@
   - [Spanning Tree](src/main/java/com/example/practice/datastructures/graph/spanningtree/README.md)
 - [Asymptotic Notation](src/main/java/com/example/practice/asymptoticnotation/README.md)
   - [Big-O](src/main/java/com/example/practice/asymptoticnotation/bigo/README.md)
+  - [Big Omega](src/main/java/com/example/practice/asymptoticnotation/bigomega/README.md)
+  - [Big Theta](src/main/java/com/example/practice/asymptoticnotation/bigtheta/README.md)
 
 ### Asymptotic Notation
 
