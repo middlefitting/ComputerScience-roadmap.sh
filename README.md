@@ -41,3 +41,4 @@
 
 ### Networking
 - [How computers work](src/main/java/com/example/practice/network/howcomputerswork/README.md)
+- [How the Internet works](src/main/java/com/example/practice/network/howtheinternetworks/README.md)
