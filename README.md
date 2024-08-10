@@ -33,6 +33,7 @@
 > Graphs
 - [Dijkstra’s Algorithm](src/main/java/com/example/practice/commonalgorithms/graphs/dijkstrasalgorithm/README.md)
 - [Bellman Ford’s Algorithm](src/main/java/com/example/practice/commonalgorithms/graphs/bellmanfordsalgorithm/README.md)
+- [A* Algorithm](src/main/java/com/example/practice/commonalgorithms/graphs/astaralgorithm/README.md)
 
 > Sorting
 - [BubbleSort](src/main/java/com/example/practice/commonalgorithms/sorting/bubblesort/BubbleSort.java)
